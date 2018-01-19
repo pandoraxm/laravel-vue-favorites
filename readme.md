@@ -1,7 +1,7 @@
 # laravel + vue 实现收藏夹功能的demo
 
 # Screenshots
-![图1](https://wx3.sinaimg.cn/large/006q3SyDgy1fnlxnyvxmhg31gi0qtnpe.gif)
+![图1](https://github.com/pandoraxm/laravel-vue-favorites/blob/master/Sceenshots.gif)
 
 # Installation
 
